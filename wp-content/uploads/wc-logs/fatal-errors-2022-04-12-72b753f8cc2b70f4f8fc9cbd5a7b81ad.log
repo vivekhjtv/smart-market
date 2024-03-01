@@ -1,0 +1,50 @@
+2022-04-12T05:32:35+00:00 CRITICAL syntax error, unexpected '<' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 100
+
+2022-04-12T05:32:49+00:00 CRITICAL syntax error, unexpected 'about_title' (T_STRING), expecting ';' or ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 100
+
+2022-04-12T05:33:11+00:00 CRITICAL syntax error, unexpected 'about_title' (T_STRING), expecting ';' or ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 100
+
+2022-04-12T05:33:46+00:00 CRITICAL syntax error, unexpected '.' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 100
+
+2022-04-12T05:34:44+00:00 CRITICAL syntax error, unexpected '.' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 100
+
+2022-04-12T05:35:02+00:00 CRITICAL syntax error, unexpected '.' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 100
+
+2022-04-12T05:36:00+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 86
+
+2022-04-12T05:36:13+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 85
+
+2022-04-12T05:37:46+00:00 CRITICAL syntax error, unexpected ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 91
+
+2022-04-12T05:37:46+00:00 CRITICAL syntax error, unexpected ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 91
+
+2022-04-12T05:37:47+00:00 CRITICAL syntax error, unexpected ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 91
+
+2022-04-12T05:39:49+00:00 CRITICAL syntax error, unexpected '<' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 105
+
+2022-04-12T05:40:11+00:00 CRITICAL syntax error, unexpected '<' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 105
+
+2022-04-12T05:45:49+00:00 CRITICAL syntax error, unexpected '/' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 111
+
+2022-04-12T08:22:27+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 119
+
+2022-04-12T10:02:01+00:00 CRITICAL syntax error, unexpected 'template_url' (T_STRING), expecting ')' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 43
+
+2022-04-12T11:34:48+00:00 CRITICAL syntax error, unexpected '.' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 97
+
+2022-04-12T12:19:08+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 97
+
+2022-04-12T12:19:30+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 97
+
+2022-04-12T12:19:33+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 97
+
+2022-04-12T12:27:54+00:00 CRITICAL syntax error, unexpected ';' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 98
+
+2022-04-12T12:28:15+00:00 CRITICAL syntax error, unexpected 'sec' (T_STRING) in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 98
+
+2022-04-12T12:31:14+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ';' or ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 98
+
+2022-04-12T12:31:49+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ';' or ',' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 97
+
+2022-04-12T13:12:17+00:00 CRITICAL syntax error, unexpected '.', expecting end of file in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 120
+

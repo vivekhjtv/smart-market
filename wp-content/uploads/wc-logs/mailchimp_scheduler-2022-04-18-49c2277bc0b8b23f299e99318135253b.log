@@ -1,0 +1,50 @@
+2022-04-18T04:50:16+00:00 ERROR Incorrect response from Mailchimp API with: stdClass Object
+(
+    [code] => mailchimp-error
+    [message] => A MailChimp error has occurred.
+    [data] => stdClass Object
+        (
+            [type] => https://mailchimp.com/developer/marketing/docs/errors/
+            [title] => Invalid Resource
+            [status] => 400
+            [detail] => Your merge fields were invalid.
+            [instance] => 47b3c8b4-00d1-8745-d2cb-5b88bf6e5764
+            [errors] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [field] => ADDRESS
+                            [message] => Please enter a complete address
+                        )
+
+                )
+
+        )
+
+)
+
+2022-04-18T05:36:04+00:00 ERROR Incorrect response from Mailchimp API with: stdClass Object
+(
+    [code] => mailchimp-error
+    [message] => A MailChimp error has occurred.
+    [data] => stdClass Object
+        (
+            [type] => https://mailchimp.com/developer/marketing/docs/errors/
+            [title] => Invalid Resource
+            [status] => 400
+            [detail] => Your merge fields were invalid.
+            [instance] => cff55595-1a49-61d6-dc09-e8bee52188ef
+            [errors] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [field] => ADDRESS
+                            [message] => Please enter a complete address
+                        )
+
+                )
+
+        )
+
+)
+

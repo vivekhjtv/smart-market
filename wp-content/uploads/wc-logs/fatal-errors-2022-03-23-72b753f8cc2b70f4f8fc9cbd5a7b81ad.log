@@ -1,0 +1,10 @@
+2022-03-23T05:00:00+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\template-parts\content.php on line 22
+
+2022-03-23T05:01:17+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\template-parts\content.php on line 22
+
+2022-03-23T09:45:23+00:00 CRITICAL syntax error, unexpected '&' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\functions.php on line 803
+
+2022-03-23T09:45:25+00:00 CRITICAL syntax error, unexpected '&' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\functions.php on line 803
+
+2022-03-23T09:45:47+00:00 CRITICAL syntax error, unexpected ';' in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\functions.php on line 804
+

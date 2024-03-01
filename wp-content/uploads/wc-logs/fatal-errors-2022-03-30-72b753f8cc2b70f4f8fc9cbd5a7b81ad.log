@@ -1,0 +1,24 @@
+2022-03-30T08:30:33+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php:189
+Stack trace:
+#0 D:\Wamp\www\smartmarket\wp-includes\template-loader.php(106): include()
+#1 D:\Wamp\www\smartmarket\wp-blog-header.php(19): require_once('D:\\Wamp\\www\\sma...')
+#2 D:\Wamp\www\smartmarket\index.php(17): require('D:\\Wamp\\www\\sma...')
+#3 {main}
+  thrown in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 189
+
+2022-03-30T08:31:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php:189
+Stack trace:
+#0 D:\Wamp\www\smartmarket\wp-includes\template-loader.php(106): include()
+#1 D:\Wamp\www\smartmarket\wp-blog-header.php(19): require_once('D:\\Wamp\\www\\sma...')
+#2 D:\Wamp\www\smartmarket\index.php(17): require('D:\\Wamp\\www\\sma...')
+#3 {main}
+  thrown in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 189
+
+2022-03-30T08:51:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\aboutus.php:189
+Stack trace:
+#0 D:\Wamp\www\smartmarket\wp-includes\template-loader.php(106): include()
+#1 D:\Wamp\www\smartmarket\wp-blog-header.php(19): require_once('D:\\Wamp\\www\\sma...')
+#2 D:\Wamp\www\smartmarket\index.php(17): require('D:\\Wamp\\www\\sma...')
+#3 {main}
+  thrown in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\aboutus.php on line 189
+

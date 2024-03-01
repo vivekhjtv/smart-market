@@ -1,0 +1,10 @@
+2022-04-01T12:41:06+00:00 CRITICAL syntax error, unexpected '...' (T_ELLIPSIS), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 267
+
+2022-04-01T12:41:15+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 393
+
+2022-04-01T12:41:19+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 393
+
+2022-04-01T12:41:34+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 393
+
+2022-04-01T12:42:01+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\Wamp\www\smartmarket\wp-content\themes\smartmarket\home.php on line 386
+
